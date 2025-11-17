@@ -1,4 +1,3 @@
-// Não altere este arquivo
 const {
   somar,
   multiplicar,
