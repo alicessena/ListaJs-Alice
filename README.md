@@ -43,10 +43,10 @@ O arquivo principal (`index.js`) implementa as seguintes funções, que cobrem o
 
 ### 1️⃣ - Clonar o repositório 🖥️
 
-Para começar, você deve clonar este repositório na sua máquina. Abra o terminal e execute o seguinte comando:
+Para começar, você deve clonar o repositório base na sua máquina. Abra o terminal e execute o seguinte comando:
 
 ```bash
-git clone [https://github.com/profrafamatos/11-lista-js-1.git](https://github.com/profrafamatos/11-lista-js-1.git)
+git clone https://github.com/profrafamatos/11-lista-js-1.git
 ```
 
 ### 2️⃣ - Navegar até a pasta do repositório 📂
